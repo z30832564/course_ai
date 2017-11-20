@@ -1,0 +1,13 @@
+p(a)|q(b)|!o(d)
+!p(y)|!q(a)
+o(d)
+
+!a(x,y)|!b(y)|c(f)
+!c(z)
+a(a,b)
+b(b)
+
+!a(x)|!b(y)|c(f)
+!c(z)
+a(a)
+b(b)
